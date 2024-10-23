@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-       This is the latest change.
+       This is a whole new change
       </p>
     </>
   )
